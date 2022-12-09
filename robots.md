@@ -8,7 +8,7 @@ members:
       - full: true
         list:
           - name: KUKA Iiwa LBR
-            photo_url: /img/robots/KUKA_LBR.png
+            photo_url: /img/robots/kuka.jpg
             web_url: https://www.kuka.com/en-de/products/robot-systems/industrial-robots/lbr-iiwa
           - name: UR5
             photo_url: /img/robots/UR5.png
